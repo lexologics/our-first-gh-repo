@@ -1,2 +1,2 @@
-# our-first-gh-repo
+# Our First Github Repo
 ITProTv - GitHub Training
